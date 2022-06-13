@@ -5,5 +5,5 @@ int number = ToInt32(Console.ReadLine());
 int number = number % 2;
 if (int = number)
 {
-    Console.WriteLine("Да")
+    Console.WriteLine("Да");
 }
